@@ -1,0 +1,13 @@
+[submodule "console"]
+	path = console
+	url = git@github.com:oliverfairy/console.git
+[submodule "server"]
+	path = server
+	url = git@github.com:oliverfairy/server.git
+	branch = dev
+[submodule "proto/proto-common"]
+	path = proto/proto-common
+	url = git@github.com:oliverfairy/proto-common.git
+[submodule "proto/proto-developer"]
+	path = proto/proto-developer
+	url = git@github.com:oliverfairy/proto-developer.git
